@@ -86,8 +86,23 @@
   grid-column: 1 / -1;
 }
 
-.instructions-box h2 {
-  margin: 0 0 0.5rem 0;
+.instructions-toggle {
+  margin: 0;
+  cursor: pointer;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.toggle-arrow {
+  font-size: 0.75rem;
+  transition: transform 0.2s;
+  display: inline-block;
+}
+
+.toggle-arrow.open {
+  transform: rotate(90deg);
 }
 
 .instructions-box ol {
