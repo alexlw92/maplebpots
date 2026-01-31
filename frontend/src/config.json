@@ -1,0 +1,109 @@
+{
+  "itemTypes": [
+    "Hat",
+    "Top/Overall/Bottom/Shoes/Cape/Belt/Shoulder",
+    "Gloves",
+    "Accessory",
+    "Mechanical Heart/Badge",
+    "Weapon",
+    "Emblem",
+    "Secondary Weapon"
+  ],
+  "statTypes": [
+    "All Stats%",
+    "Critical Damage%",
+    "Critical Rate%",
+    "DEX",
+    "DEX%",
+    "Damage to Boss Monsters%",
+    "INT",
+    "INT%",
+    "Ignore Monster DEF%",
+    "LUK",
+    "LUK%",
+    "Magic ATT",
+    "Magic ATT%",
+    "MaxHP",
+    "MaxHP%",
+    "STR",
+    "STR%",
+    "Weapon ATT",
+    "Weapon ATT%"
+  ],
+  "commonStats": [
+    "All Stats%",
+    "Critical Damage%",
+    "Damage to Boss Monsters%",
+    "Ignore Monster DEF%"
+  ],
+  "statClassStats": {
+    "STR/DEX": ["STR", "STR%", "DEX", "DEX%", "Weapon ATT", "Weapon ATT%"],
+    "DEX/STR": ["DEX", "DEX%", "STR", "STR%", "Critical Rate%", "Weapon ATT", "Weapon ATT%"],
+    "INT/LUK": ["INT", "INT%", "LUK", "LUK%", "Magic ATT", "Magic ATT%"],
+    "LUK/DEX": ["LUK", "LUK%", "DEX", "DEX%", "Weapon ATT", "Weapon ATT%"],
+    "HP/STR": ["MaxHP", "MaxHP%", "STR", "STR%", "Weapon ATT", "Weapon ATT%"],
+    "AllStat": ["STR", "STR%", "DEX", "DEX%", "LUK", "LUK%", "Weapon ATT", "Weapon ATT%", "Magic ATT", "Magic ATT%"]
+  },
+  "statClassOptions": [
+    "STR/DEX",
+    "DEX/STR",
+    "INT/LUK",
+    "LUK/DEX",
+    "HP/STR",
+    "AllStat"
+  ],
+  "statAliases": {
+    "Damage%": "Damage to Boss Monsters%",
+    "STR per 9 Levels": "STR",
+    "DEX per 9 Levels": "DEX",
+    "INT per 9 Levels": "INT",
+    "LUK per 9 Levels": "LUK",
+    "Weapon ATT per 9 Levels": "Weapon ATT",
+    "Magic ATT per 9 Levels": "Magic ATT"
+  },
+  "per9Stats": [
+    "STR per 9 Levels",
+    "DEX per 9 Levels",
+    "INT per 9 Levels",
+    "LUK per 9 Levels",
+    "Weapon ATT per 9 Levels",
+    "Magic ATT per 9 Levels"
+  ],
+  "tierWeights": {
+    "bright": { "line2UniqueW": 0.8, "line2LegW": 0.2, "line3UniqueW": 0.95, "line3LegW": 0.05 },
+    "glowing": { "line2UniqueW": 0.9, "line2LegW": 0.1, "line3UniqueW": 0.99, "line3LegW": 0.01 }
+  },
+  "defaults": {
+    "itemType": "Weapon",
+    "level": "250",
+    "charLevel": "295",
+    "statClass": "STR/DEX",
+    "skillCooldown": false
+  },
+  "defaultLines": {
+    "line1": "Weapon ATT % Increase +13%",
+    "line2": "Weapon ATT % Increase +10%",
+    "line3": "STR % Increase +10%"
+  },
+  "defaultStatValues": {
+    "All Stats%": { "value": "9", "fd": "0.762" },
+    "Critical Damage%": { "value": "8", "fd": "2.456" },
+    "Critical Rate%": { "value": "", "fd": "" },
+    "DEX": { "value": "30", "fd": "0.0221" },
+    "DEX%": { "value": "12", "fd": "0.116" },
+    "Damage to Boss Monsters%": { "value": "40", "fd": "3.319" },
+    "INT": { "value": "", "fd": "" },
+    "INT%": { "value": "", "fd": "" },
+    "Ignore Monster DEF%": { "value": "40", "fd": "1.765" },
+    "LUK": { "value": "", "fd": "" },
+    "LUK%": { "value": "", "fd": "" },
+    "Magic ATT": { "value": "", "fd": "" },
+    "Magic ATT%": { "value": "", "fd": "" },
+    "MaxHP": { "value": "", "fd": "" },
+    "MaxHP%": { "value": "", "fd": "" },
+    "STR": { "value": "30", "fd": "0.240" },
+    "STR%": { "value": "23", "fd": "0.9" },
+    "Weapon ATT": { "value": "30", "fd": "0.523" },
+    "Weapon ATT%": { "value": "12", "fd": "3.631" }
+  }
+}

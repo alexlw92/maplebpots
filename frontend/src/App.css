@@ -1,0 +1,268 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+
+.App-header h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 2.5rem;
+}
+
+.App-header p {
+  margin: 0;
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+.App-main {
+  flex: 1;
+  padding: 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.main-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.form-section {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.form-group label {
+  font-weight: 600;
+  color: #333;
+  font-size: 0.9rem;
+}
+
+.form-group select,
+.form-group input {
+  padding: 0.6rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  background: #fff;
+  transition: border-color 0.2s;
+}
+
+.form-group select:focus,
+.form-group input:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.2);
+}
+
+.form-group select:disabled {
+  background: #f0f0f0;
+  color: #999;
+  cursor: not-allowed;
+}
+
+.stats-section {
+  margin-top: 0;
+}
+
+.inputs-section {
+  position: sticky;
+  top: 2rem;
+}
+
+.stats-config {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.checkbox-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+  color: #333;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 0.75rem;
+}
+
+.checkbox-row input[type="checkbox"] {
+  width: 1rem;
+  height: 1rem;
+  cursor: pointer;
+}
+
+.stats-section h2 {
+  margin: 0 0 1rem 0;
+  color: #333;
+  font-size: 1.4rem;
+}
+
+.stats-table {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.stats-header {
+  display: grid;
+  grid-template-columns: 1fr 100px 100px;
+  gap: 0.75rem;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: #555;
+  padding: 0 0 0.4rem 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.stats-row {
+  display: grid;
+  grid-template-columns: 1fr 100px 100px;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.stats-row:nth-child(odd) {
+  background: #f8f9fa;
+  border-radius: 4px;
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: #333;
+  padding: 0.4rem 0.5rem;
+}
+
+.stats-row input {
+  padding: 0.4rem 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.input-suffix {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input-suffix input {
+  padding-right: 1.5rem;
+  text-align: right;
+}
+
+.input-suffix span {
+  position: absolute;
+  right: 0.5rem;
+  color: #999;
+  font-size: 0.85rem;
+  pointer-events: none;
+}
+
+.stats-row input:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.2);
+}
+
+.calculate-btn {
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.2s;
+  margin-top: 0.5rem;
+}
+
+.calculate-btn:hover {
+  opacity: 0.9;
+}
+
+.calculate-btn:active {
+  opacity: 0.8;
+}
+
+.results-section {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background: #f0f4ff;
+  border-radius: 6px;
+  border: 1px solid #d0d8f0;
+}
+
+.results-section h3 {
+  margin: 0 0 0.75rem 0;
+  font-size: 1rem;
+}
+
+.result-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.35rem 0;
+  font-size: 0.95rem;
+}
+
+.result-row span:last-child {
+  font-weight: 600;
+}
+
+.cube-result-block {
+  margin-bottom: 1rem;
+}
+
+.cube-result-block:last-child {
+  margin-bottom: 0;
+}
+
+.cube-result-block h4 {
+  margin: 0 0 0.4rem 0;
+  font-size: 0.95rem;
+  color: #4a5568;
+}
+
+.error {
+  color: #dc3545;
+  padding: 1rem;
+  background: #f8d7da;
+  border-radius: 4px;
+  border: 1px solid #f5c6cb;
+}
