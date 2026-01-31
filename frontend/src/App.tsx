@@ -258,7 +258,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>MapleStory Bonus Potential Calculator</h1>
+        <h1>icyloves' Bonus Potential Cubing Calculator</h1>
         <p>Look up bonus potential probabilities</p>
       </header>
 
