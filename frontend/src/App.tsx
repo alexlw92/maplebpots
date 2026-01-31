@@ -264,6 +264,17 @@ function App() {
 
       <main className="App-main">
         <div className="main-layout">
+          <section className="form-section instructions-box">
+            <h2>Instructions</h2>
+            <ol>
+              <li>Go to <a href="https://maplescouter.com/en/input" target="_blank" rel="noopener noreferrer">maplescouter.com/en/input</a>, enter your stats for your character, and click results.</li>
+              <li>From the "Efficiency-Boss Cut" page, on the left, under "Stat Efficiency", click "Detailed Eff".</li>
+              <li>Use the FD% values from MapleScouter to fill in your stat values.</li>
+              <li>If your class uses cooldown reduction, check the "Skill Cooldown" checkbox.</li>
+              <li>Select your item type and existing bonus potential lines</li>
+              <li>Hit calculate to see on average, how many cubes it would take to roll a better bonus potential</li>
+            </ol>
+          </section>
           <section className="form-section stats-section">
             <h2>Stat Values</h2>
             <div className="stats-config">

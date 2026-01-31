@@ -42,7 +42,7 @@
     "INT/LUK": ["INT", "INT%", "LUK", "LUK%", "Magic ATT", "Magic ATT%"],
     "LUK/DEX": ["LUK", "LUK%", "DEX", "DEX%", "Weapon ATT", "Weapon ATT%"],
     "HP/STR": ["MaxHP", "MaxHP%", "STR", "STR%", "Weapon ATT", "Weapon ATT%"],
-    "AllStat": ["STR", "STR%", "DEX", "DEX%", "LUK", "LUK%", "Weapon ATT", "Weapon ATT%", "Magic ATT", "Magic ATT%"]
+    "AllStat": ["STR", "STR%", "DEX", "DEX%", "LUK", "LUK%", "Weapon ATT", "Weapon ATT%"]
   },
   "statClassOptions": [
     "STR/DEX",
