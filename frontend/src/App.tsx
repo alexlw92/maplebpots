@@ -260,7 +260,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>icyloves' Bonus Potential Cubing Calculator</h1>
-        <p>R>Potatoe (Scania)</p>
+        <p>R{">"}Potatoe (Scania)</p>
       </header>
 
       <main className="App-main">
