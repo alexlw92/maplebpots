@@ -42,16 +42,29 @@ export function getLevelBucket(level: number): number {
 // Parse a potential string to extract stat type and value
 export function parsePotential(potential: string): { statType: string | null; statValue: number | null } {
   // ATT +12% or Magic ATT +9%
-  const attMatch = potential.match(/^(ATT|Magic ATT) \+(\d+)%$/);
-  if (attMatch) {
-    const statType = attMatch[1] === 'ATT' ? 'Weapon ATT%' : 'Magic ATT%';
-    return { statType, statValue: parseInt(attMatch[2]) };
+  const attPctMatch = potential.match(/^(ATT|Magic ATT) \+(\d+)%$/);
+  if (attPctMatch) {
+    const statType = attPctMatch[1] === 'ATT' ? 'Weapon ATT%' : 'Magic ATT%';
+    return { statType, statValue: parseInt(attPctMatch[2]) };
+  }
+
+  // Flat ATT +14 or Magic ATT +16
+  const attFlatMatch = potential.match(/^(ATT|Magic ATT) \+(\d+)$/);
+  if (attFlatMatch) {
+    const statType = attFlatMatch[1] === 'ATT' ? 'Weapon ATT' : 'Magic ATT';
+    return { statType, statValue: parseInt(attFlatMatch[2]) };
   }
 
   // STR +9% etc
   const statPctMatch = potential.match(/^(STR|DEX|INT|LUK) \+(\d+)%$/);
   if (statPctMatch) {
     return { statType: `${statPctMatch[1]}%`, statValue: parseInt(statPctMatch[2]) };
+  }
+
+  // Flat STR +20 etc
+  const statFlatMatch = potential.match(/^(STR|DEX|INT|LUK) \+(\d+)$/);
+  if (statFlatMatch) {
+    return { statType: statFlatMatch[1], statValue: parseInt(statFlatMatch[2]) };
   }
 
   // All Stats +5%
