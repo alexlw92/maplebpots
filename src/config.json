@@ -1,13 +1,22 @@
 {
   "itemTypes": [
-    "Hat",
-    "Top/Overall/Bottom/Shoes/Cape/Belt/Shoulder",
-    "Gloves",
-    "Accessory",
-    "Mechanical Heart/Badge",
     "Weapon",
+    "Secondary",
     "Emblem",
-    "Secondary Weapon"
+    "Hat",
+    "Top",
+    "Bottom",
+    "Shoulder",
+    "Cape",
+    "Gloves",
+    "Shoes",
+    "Heart",
+    "Ring",
+    "Belt",
+    "Face Accessory",
+    "Eye Accessory",
+    "Earring",
+    "Pendant"
   ],
   "statTypes": [
     "All Stats%",
@@ -86,24 +95,24 @@
     "line3": "STR % Increase +10%"
   },
   "defaultStatValues": {
-    "All Stats%": { "value": "9", "fd": "0.762" },
-    "Critical Damage%": { "value": "8", "fd": "2.456" },
+    "All Stats%": { "value": "9", "fd": "0.750" },
+    "Critical Damage%": { "value": "8", "fd": "2.401" },
     "Critical Rate%": { "value": "", "fd": "" },
-    "DEX": { "value": "30", "fd": "0.0221" },
-    "DEX%": { "value": "12", "fd": "0.116" },
-    "Damage to Boss Monsters%": { "value": "40", "fd": "3.319" },
+    "DEX": { "value": "30", "fd": "0.023" },
+    "DEX%": { "value": "12", "fd": "0.124" },
+    "Damage to Boss Monsters%": { "value": "40", "fd": "3.383" },
     "INT": { "value": "", "fd": "" },
     "INT%": { "value": "", "fd": "" },
-    "Ignore Monster DEF%": { "value": "40", "fd": "1.765" },
+    "Ignore Monster DEF%": { "value": "40", "fd": "1.453" },
     "LUK": { "value": "", "fd": "" },
     "LUK%": { "value": "", "fd": "" },
     "Magic ATT": { "value": "", "fd": "" },
     "Magic ATT%": { "value": "", "fd": "" },
     "MaxHP": { "value": "", "fd": "" },
     "MaxHP%": { "value": "", "fd": "" },
-    "STR": { "value": "30", "fd": "0.240" },
-    "STR%": { "value": "23", "fd": "0.9" },
-    "Weapon ATT": { "value": "30", "fd": "0.523" },
+    "STR": { "value": "30", "fd": "0.252" },
+    "STR%": { "value": "12", "fd": "0.876" },
+    "Weapon ATT": { "value": "30", "fd": "0.504" },
     "Weapon ATT%": { "value": "12", "fd": "3.631" }
   }
 }

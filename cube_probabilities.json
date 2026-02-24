@@ -1,0 +1,6632 @@
+[
+  {
+    "tier": "Unique",
+    "itemType": "Weapon",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Magic ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Critical Rate +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Damage +9%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "15% chance to recover 95 HP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "15% chance to recover 95 MP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Ignore DEF +4%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "Boss Damage +12%",
+        "probability": 0.023256000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Weapon",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Magic ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Critical Rate +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Damage +9%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "15% chance to recover 95 HP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "15% chance to recover 95 MP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Ignore DEF +4%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "Boss Damage +12%",
+        "probability": 0.023256000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Weapon",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Magic ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Critical Rate +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Damage +9%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "15% chance to recover 95 HP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "15% chance to recover 95 MP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Ignore DEF +4%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "Boss Damage +12%",
+        "probability": 0.023256000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Weapon",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "Max HP +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Max MP +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "ATT +10%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Magic ATT +10%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Critical Rate +10%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +10%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "DEX +10%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "INT +10%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "LUK +10%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Damage +10%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "All Stats +7%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "15% chance to recover 100 HP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "15% chance to recover 100 MP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Ignore DEF +6%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "Boss Damage +14%",
+        "probability": 0.023256000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Weapon",
+    "level": 250,
+    "potentials": [
+      {
+        "potential": "Max HP +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Max MP +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "ATT +10%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Magic ATT +10%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Critical Rate +10%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +10%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "DEX +10%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "INT +10%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "LUK +10%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Damage +10%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "All Stats +7%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "15% chance to recover 100 HP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "15% chance to recover 100 MP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Ignore DEF +6%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "Boss Damage +14%",
+        "probability": 0.023256000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Emblem",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "ATT +9%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "Magic ATT +9%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "Critical Rate +9%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Damage +9%",
+        "probability": 0.023809999999999998
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "15% chance to recover 95 HP when attacking.",
+        "probability": 0.071429
+      },
+      {
+        "potential": "15% chance to recover 95 MP when attacking.",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Ignore DEF +4%",
+        "probability": 0.023809999999999998
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Emblem",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "ATT +9%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "Magic ATT +9%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "Critical Rate +9%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Damage +9%",
+        "probability": 0.023809999999999998
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "15% chance to recover 95 HP when attacking.",
+        "probability": 0.071429
+      },
+      {
+        "potential": "15% chance to recover 95 MP when attacking.",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Ignore DEF +4%",
+        "probability": 0.023809999999999998
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Emblem",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "ATT +9%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "Magic ATT +9%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "Critical Rate +9%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Damage +9%",
+        "probability": 0.023809999999999998
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "15% chance to recover 95 HP when attacking.",
+        "probability": 0.071429
+      },
+      {
+        "potential": "15% chance to recover 95 MP when attacking.",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Ignore DEF +4%",
+        "probability": 0.023809999999999998
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Emblem",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "ATT +10%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "Magic ATT +10%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "Critical Rate +10%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "STR +10%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "DEX +10%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "INT +10%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "LUK +10%",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Damage +10%",
+        "probability": 0.023809999999999998
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.047618999999999995
+      },
+      {
+        "potential": "15% chance to recover 95 HP when attacking.",
+        "probability": 0.071429
+      },
+      {
+        "potential": "15% chance to recover 95 MP when attacking.",
+        "probability": 0.071429
+      },
+      {
+        "potential": "Ignore DEF +4%",
+        "probability": 0.023809999999999998
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Secondary Weapon",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Magic ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Critical Rate +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Damage +9%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "15% chance to recover 95 HP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "15% chance to recover 95 MP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Ignore DEF +4%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "Boss Damage +12%",
+        "probability": 0.023256000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Secondary Weapon",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Magic ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Critical Rate +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Damage +9%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "15% chance to recover 95 HP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "15% chance to recover 95 MP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Ignore DEF +4%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "Boss Damage +12%",
+        "probability": 0.023256000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Secondary Weapon",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Magic ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Critical Rate +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Damage +9%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "15% chance to recover 95 HP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "15% chance to recover 95 MP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Ignore DEF +4%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "Boss Damage +12%",
+        "probability": 0.023256000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Secondary Weapon",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Magic ATT +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "Critical Rate +9%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Damage +9%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.046512000000000005
+      },
+      {
+        "potential": "15% chance to recover 95 HP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "15% chance to recover 95 MP when attacking.",
+        "probability": 0.069767
+      },
+      {
+        "potential": "Ignore DEF +4%",
+        "probability": 0.023256000000000002
+      },
+      {
+        "potential": "Boss Damage +12%",
+        "probability": 0.023256000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Hat",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Hat",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Hat",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Hat",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Hat",
+    "level": 250,
+    "potentials": [
+      {
+        "potential": "STR +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +315",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +315",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +15",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +15",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +9%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +9%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Armor",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Armor",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Armor",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Armor",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Armor",
+    "level": 250,
+    "potentials": [
+      {
+        "potential": "STR +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +315",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +315",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +15",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +15",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +9%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +9%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Gloves",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Gloves",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Gloves",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Gloves",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Gloves",
+    "level": 250,
+    "potentials": [
+      {
+        "potential": "STR +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +315",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +315",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +15",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +15",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +9%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +9%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Accessory",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Accessory",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Accessory",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Accessory",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Accessory",
+    "level": 250,
+    "potentials": [
+      {
+        "potential": "STR +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +19",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +315",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +315",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +15",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +15",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +7%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +9%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +9%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Heart",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Heart",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Heart",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Unique",
+    "itemType": "Heart",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "STR +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "DEX +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "INT +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "LUK +18",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max HP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +300",
+        "probability": 0.061224
+      },
+      {
+        "potential": "ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Magic ATT +14",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +6%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "Max HP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "Max MP +8%",
+        "probability": 0.061224
+      },
+      {
+        "potential": "All Stats +5%",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "STR +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "DEX +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "INT +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "LUK +1 per 9 character levels",
+        "probability": 0.0408163
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +20%",
+        "probability": 0.061224
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Weapon",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "ATT +12%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "Magic ATT +12%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "Critical Rate +12%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "STR +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "DEX +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "INT +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "LUK +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "Damage +12%",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "All Stats +9%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Ignore DEF +5%",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Boss Damage +18%",
+        "probability": 0.025640999999999997
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Weapon",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "ATT +12%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "Magic ATT +12%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "Critical Rate +12%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "STR +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "DEX +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "INT +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "LUK +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "Damage +12%",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "All Stats +9%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Ignore DEF +5%",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Boss Damage +18%",
+        "probability": 0.025640999999999997
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Weapon",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "ATT +12%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "Magic ATT +12%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "Critical Rate +12%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "STR +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "DEX +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "INT +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "LUK +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "Damage +12%",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "All Stats +9%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Ignore DEF +5%",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Boss Damage +18%",
+        "probability": 0.025640999999999997
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Weapon",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "Max HP +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "Max MP +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "ATT +13%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "Magic ATT +13%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "Critical Rate +13%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "STR +13%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "DEX +13%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "INT +13%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "LUK +13%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "Damage +13%",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "All Stats +10%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Ignore DEF +7%",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Boss Damage +20%",
+        "probability": 0.025640999999999997
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Weapon",
+    "level": 250,
+    "potentials": [
+      {
+        "potential": "Max HP +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "Max MP +12%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "ATT +13%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "Magic ATT +13%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "Critical Rate +13%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "STR +13%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "DEX +13%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "INT +13%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "LUK +13%",
+        "probability": 0.076923
+      },
+      {
+        "potential": "Damage +13%",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "All Stats +10%",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.051281999999999994
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Ignore DEF +7%",
+        "probability": 0.025640999999999997
+      },
+      {
+        "potential": "Boss Damage +20%",
+        "probability": 0.025640999999999997
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Emblem",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "ATT +12%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Magic ATT +12%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Critical Rate +12%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "STR +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "DEX +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "INT +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "LUK +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "Damage +12%",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "All Stats +9%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "Ignore DEF +5%",
+        "probability": 0.026316000000000003
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Emblem",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "ATT +12%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Magic ATT +12%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Critical Rate +12%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "STR +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "DEX +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "INT +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "LUK +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "Damage +12%",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "All Stats +9%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "Ignore DEF +5%",
+        "probability": 0.026316000000000003
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Emblem",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "ATT +12%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Magic ATT +12%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Critical Rate +12%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "STR +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "DEX +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "INT +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "LUK +12%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "Damage +12%",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "All Stats +9%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "Ignore DEF +5%",
+        "probability": 0.026316000000000003
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Emblem",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "ATT +13%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Magic ATT +13%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Critical Rate +13%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "STR +13%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "DEX +13%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "INT +13%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "LUK +13%",
+        "probability": 0.078947
+      },
+      {
+        "potential": "Damage +13%",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "All Stats +10%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.026316000000000003
+      },
+      {
+        "potential": "Ignore DEF +5%",
+        "probability": 0.026316000000000003
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Secondary Weapon",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "ATT +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Magic ATT +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Critical Rate +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "STR +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "DEX +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "INT +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "LUK +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "Damage +12%",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "All Stats +9%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Ignore DEF +5%",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Boss Damage +18%",
+        "probability": 0.024390000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Secondary Weapon",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "ATT +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Magic ATT +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Critical Rate +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "STR +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "DEX +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "INT +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "LUK +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "Damage +12%",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "All Stats +9%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Ignore DEF +5%",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Boss Damage +18%",
+        "probability": 0.024390000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Secondary Weapon",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "ATT +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Magic ATT +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Critical Rate +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "STR +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "DEX +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "INT +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "LUK +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "Damage +12%",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "All Stats +9%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Ignore DEF +5%",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Boss Damage +18%",
+        "probability": 0.024390000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Secondary Weapon",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "ATT +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Magic ATT +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Critical Rate +12%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "STR +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "DEX +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "INT +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "LUK +12%",
+        "probability": 0.073171
+      },
+      {
+        "potential": "Damage +12%",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "All Stats +9%",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.048780000000000004
+      },
+      {
+        "potential": "ATT +32",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Magic ATT +32",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Ignore DEF +5%",
+        "probability": 0.024390000000000002
+      },
+      {
+        "potential": "Boss Damage +18%",
+        "probability": 0.024390000000000002
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Hat",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.05
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.033333
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.033333
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Skill Cooldown: -1 sec",
+        "probability": 0.05
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.05
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Hat",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.05
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.033333
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.033333
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Skill Cooldown: -1 sec",
+        "probability": 0.05
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.05
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Hat",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.05
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.033333
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.033333
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Skill Cooldown: -1 sec",
+        "probability": 0.05
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.05
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Hat",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.05
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.033333
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.033333
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Skill Cooldown: -1 sec",
+        "probability": 0.05
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.05
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Hat",
+    "level": 250,
+    "potentials": [
+      {
+        "potential": "STR +21",
+        "probability": 0.05
+      },
+      {
+        "potential": "DEX +21",
+        "probability": 0.05
+      },
+      {
+        "potential": "INT +21",
+        "probability": 0.05
+      },
+      {
+        "potential": "LUK +21",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max HP +375",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max MP +375",
+        "probability": 0.05
+      },
+      {
+        "potential": "ATT +17",
+        "probability": 0.033333
+      },
+      {
+        "potential": "Magic ATT +17",
+        "probability": 0.033333
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "Max HP +12%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Max MP +12%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "All Stats +7%",
+        "probability": 0.033333
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.033333
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Skill Cooldown: -1 sec",
+        "probability": 0.05
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.05
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.05
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Armor",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.035088
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.035088
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.052632000000000005
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Armor",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.035088
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.035088
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.052632000000000005
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Armor",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.035088
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.035088
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.052632000000000005
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Armor",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.035088
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.035088
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.052632000000000005
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Armor",
+    "level": 250,
+    "potentials": [
+      {
+        "potential": "STR +21",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "DEX +21",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "INT +21",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "LUK +21",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max HP +375",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max MP +375",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "ATT +17",
+        "probability": 0.035088
+      },
+      {
+        "potential": "Magic ATT +17",
+        "probability": 0.035088
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "Max HP +12%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Max MP +12%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "All Stats +7%",
+        "probability": 0.035088
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.035088
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.052632000000000005
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.052632000000000005
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Gloves",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Critical Damage +3%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.0508475
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Gloves",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Critical Damage +3%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.0508475
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Gloves",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Critical Damage +3%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.0508475
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Gloves",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Critical Damage +3%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.0508475
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Gloves",
+    "level": 250,
+    "potentials": [
+      {
+        "potential": "STR +21",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "DEX +21",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "INT +21",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "LUK +21",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max HP +375",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max MP +375",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "ATT +17",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Magic ATT +17",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Max HP +12%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Max MP +12%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Critical Damage +3%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "Critical Damage +1%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "All Stats +7%",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.033898000000000005
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.0508475
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.0508475
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Accessory",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.051724
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.034483
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.034483
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "All Skills MP Cost -10%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.051724
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Accessory",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.051724
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.034483
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.034483
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "All Skills MP Cost -10%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.051724
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Accessory",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.051724
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.034483
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.034483
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "All Skills MP Cost -10%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.051724
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Accessory",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.051724
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.034483
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.034483
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "All Skills MP Cost -10%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.051724
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Accessory",
+    "level": 250,
+    "potentials": [
+      {
+        "potential": "STR +21",
+        "probability": 0.051724
+      },
+      {
+        "potential": "DEX +21",
+        "probability": 0.051724
+      },
+      {
+        "potential": "INT +21",
+        "probability": 0.051724
+      },
+      {
+        "potential": "LUK +21",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max HP +375",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max MP +375",
+        "probability": 0.051724
+      },
+      {
+        "potential": "ATT +17",
+        "probability": 0.034483
+      },
+      {
+        "potential": "Magic ATT +17",
+        "probability": 0.034483
+      },
+      {
+        "potential": "STR +9%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "DEX +9%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "INT +9%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "LUK +9%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "Max HP +12%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Max MP +12%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "All Stats +7%",
+        "probability": 0.034483
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.034483
+      },
+      {
+        "potential": "All Skills MP Cost -10%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.051724
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.051724
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Heart",
+    "level": 140,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.054545
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.036364
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.036364
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.054545
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Heart",
+    "level": 150,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.054545
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.036364
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.036364
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.054545
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Heart",
+    "level": 160,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.054545
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.036364
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.036364
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.054545
+      }
+    ]
+  },
+  {
+    "tier": "Legendary",
+    "itemType": "Heart",
+    "level": 200,
+    "potentials": [
+      {
+        "potential": "STR +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "DEX +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "INT +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "LUK +20",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max HP +360",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max MP +360",
+        "probability": 0.054545
+      },
+      {
+        "potential": "ATT +16",
+        "probability": 0.036364
+      },
+      {
+        "potential": "Magic ATT +16",
+        "probability": 0.036364
+      },
+      {
+        "potential": "STR +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "DEX +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "INT +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "LUK +8%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "Max HP +11%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Max MP +11%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "All Stats +6%",
+        "probability": 0.036364
+      },
+      {
+        "potential": "STR +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "DEX +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "INT +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "LUK +2 per 9 character levels",
+        "probability": 0.036364
+      },
+      {
+        "potential": "HP Recovery Item and Skill Efficiency +30%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Meso Obtained +5%",
+        "probability": 0.054545
+      },
+      {
+        "potential": "Item Drop Rate +5%",
+        "probability": 0.054545
+      }
+    ]
+  }
+]
